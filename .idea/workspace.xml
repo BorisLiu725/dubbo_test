@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae6402a-d00e-46a6-9707-cb20a6489c01" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -80,7 +80,7 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-dubbo-consumer/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="68">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
@@ -315,16 +315,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576208258401</updated>
-      <workItem from="1576208263336" duration="11229000" />
+      <workItem from="1576208263336" duration="11821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11229000" />
+    <option name="totallyTimeSpent" value="11821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="148" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -343,10 +342,10 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37024793" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48099172" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6479339" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79473686" visible="true" weight="0.24962178" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
@@ -519,7 +518,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-dubbo-consumer/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="68">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
